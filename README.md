@@ -15,7 +15,7 @@ See `package.json` for more details on available scripts.
 
 Run the project (or read `./src/App.tsx`) for details of the exercise.
 
-## Features implement
+## Features implemented
 
 With the limited time I've had over the weekend I was able to implement the features below. With more time I'd love to implement further features as I found this project very enjoyable.
 
