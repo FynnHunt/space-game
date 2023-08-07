@@ -28,6 +28,7 @@ With the limited time I've had over the weekend I was able to implement the feat
 - Send ship to a waypoint
 - Dock ship at a waypoint
 - Persisting data between sessions on same device
+- Deployed to Github pages using the gh pages package - See it running at ...
 
 ## Improvements
 
