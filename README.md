@@ -28,7 +28,7 @@ With the limited time I've had over the weekend I was able to implement the feat
 - Send ship to a waypoint
 - Dock ship at a waypoint
 - Persisting data between sessions on same device
-- Deployed to Github pages using the gh pages package - See it running at ...
+- Deployed to Github pages using the gh pages package (404 error needs debugging)
 
 ## Improvements
 
@@ -47,3 +47,4 @@ I've listed a few of these changes below:
 - Replace the component library I chose (grommet) as there appears to be a large amount of warnings in the browser coming from components in the component library.
   There was also a number of errors when trying to use certain components in the library which limited my use.
 - Implement more game features. I only got so far with the quick start tasks as I wasted a lot of time displaying all of the agents data across different views (contracts / fleet etc).
+- Fix 404 error with Github pages deployment
