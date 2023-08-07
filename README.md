@@ -28,7 +28,7 @@ With the limited time I've had over the weekend I was able to implement the feat
 - Send ship to a waypoint
 - Dock ship at a waypoint
 - Persisting data between sessions on same device
-- Deployed to Github pages using the gh pages package. View the app at https://fynnhunt.github.io/STQS/ **note** there is currently a 404 error on the gh pages page. need to look in to this.
+- Deployed to Github pages using the gh pages package. View the app at https://fynnhunt.github.io/STQS/
 
 ## Improvements
 
