@@ -1,4 +1,4 @@
-# STQS
+# Space Game
 
 ## Requirements
 
